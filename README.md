@@ -13,6 +13,6 @@ tsc -w
 Levantar el servidor
 ```
 nodemon dist/
-<!-- or -->
+    or
 node dist/
 ```
